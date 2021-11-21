@@ -1,1 +1,1 @@
-# FireForestDetation-ML-Project-
+# Wilde Fire Area Prediction
